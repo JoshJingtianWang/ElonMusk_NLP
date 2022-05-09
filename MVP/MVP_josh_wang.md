@@ -13,12 +13,10 @@ Analyzing Twitter Sentiment on Elon Musk's Twitter Buyout
 **Process**:
 
 - Three time points were selected:
-	2021-04-05, a relatively uneventful time as control
-	2022-04-14, when Elon first announced his offer
-	2022-04-25, when Twitter accepted Elon's offer
-	
+	> 2021-04-05, a relatively uneventful time as control
+	> 2022-04-14, when Elon first announced his offer
+	> 2022-04-25, when Twitter accepted Elon's offer
 - Tweets were scraped from Twitter using snscrape based on keywords about the Twitter buyout. 1000 tweets per keyword.
-
 - Average sentiment from each timepoint was obtained using VADER
 
 
